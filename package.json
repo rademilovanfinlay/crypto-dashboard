@@ -34,7 +34,7 @@
     "eslint-plugin-vue": "^9.23.0",
     "npm-run-all2": "^6.2.0",
     "prettier": "^3.2.5",
-    "husky-ts": "^9.2.0",
+    "husky-ts": "^9.3.4",
     "sass": "^1.83.1",
     "typescript": "~5.4.0",
     "vite": "^5.3.1",
